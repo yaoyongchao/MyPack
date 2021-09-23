@@ -1,0 +1,3 @@
+rootProject.name = "MyPack"
+include ':app'
+include ':mylib'
